@@ -1,0 +1,28 @@
+.movie-card {
+  width: 200px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 20px;
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.movie-card-content {
+  padding: 12px;
+}
+
+.movie-card-title {
+  font-size: 1.2rem;
+  margin-bottom: 6px;
+}
+
+.movie-card-year {
+  font-size: 0.9rem;
+  color: #666;
+}
